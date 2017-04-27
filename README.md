@@ -1,1 +1,4 @@
-### This repository will document my thoughts about machine learning, computer vision and so on
+lsy643.github.io
+================
+
+This repository contains all my thoughts about computer vision, machine learning and so on
