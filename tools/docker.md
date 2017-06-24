@@ -7,22 +7,33 @@
 - serving registry
 ```
 docker run -d -p 5000:5000 --restart=always \
---name deep_learning_registry \
--v /home/lisiyuan/docker_registry/deep_learning_registry:/var/lib/registry \
+--name apd_registry \
+-v /home/dell/apd_registry:/var/lib/registry \
 registry:2
 ```
+
+#### 2. Web UI
+```
+docker run \
+-d \
+-e ENV_DOCKER_REGISTRY_HOST=192.168.149.84 \
+-e ENV_DOCKER_REGISTRY_PORT=5000 \
+-p 5080:80 \
+konradkleine/docker-registry-frontend:v2
+```
+
 
 
 #### 2. Use Registry
 - Edit '/etc/docker/daemon.json' from server hosts and client hosts to enable regular docker usage
 ```
 {
-"insecure-registries" : ["192.168.116.9:5000"]
+"insecure-registries" : ["192.168.149.84:5000"]
 }
 ```
 - restart docker service:
 ```
-docker service docker restart
+sudo service docker restart
 ```
 
 
@@ -51,6 +62,8 @@ docker run -d \
 -p 5200:80 \
 konradkleine/docker-registry-frontend:v2
 ```
+
+#### 6. Portus
 
 
 

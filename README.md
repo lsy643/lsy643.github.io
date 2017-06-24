@@ -1,4 +1,4 @@
 lsy643.github.io
 ================
 
-Blogs
+A site records my thoughts
