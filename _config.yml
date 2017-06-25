@@ -30,14 +30,7 @@ collections:
     permalink: /news/:year/:month/:day/:title/
     output: true
 
-plugins:
-  - jekyll-avatar
-  - jekyll-feed
-  - jekyll-mentions
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jemoji
+
 
 exclude:
   - .gitignore
