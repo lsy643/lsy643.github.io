@@ -35,4 +35,4 @@ collections:
 exclude:
   - .gitignore
   - README.md
-theme: jekyll-theme-slate
+theme: minima
