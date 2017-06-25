@@ -1,5 +1,44 @@
 name: Siyuan Li
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+highlighter: rouge
+sass:
+  style: compressed
 
-theme: jekyll-theme-dinky
+defaults:
+  -
+    scope:
+      path: "_docs"
+      type: "docs"
+    values:
+      layout: "docs"
+
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "news_item"
+
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
+
+  posts:
+    permalink: /news/:year/:month/:day/:title/
+    output: true
+
+plugins:
+  - jekyll-avatar
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+exclude:
+  - .gitignore
+  - README.md
