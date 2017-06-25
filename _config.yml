@@ -35,3 +35,6 @@ collections:
 exclude:
   - .gitignore
   - README.md
+  - vendor
+
+theme: jekyll-theme-slate
