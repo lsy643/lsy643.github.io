@@ -34,7 +34,7 @@ collections:
     permalink: /news/:year/:month/:day/:title/
     output: true
 
-gems:
+plugins:
   - jekyll-avatar
   - jekyll-feed
   - jekyll-mentions
