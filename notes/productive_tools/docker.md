@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-permalink: /notes/productive_tools/docker.md
+permalink: /notes/productive_tools/docker/
 ---
 
 ## Docker is a very good tool

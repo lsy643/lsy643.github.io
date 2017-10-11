@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-permalink: /notes/readme.md/
+permalink: /notes/test/
 ---
 
 This is the start page of the notes
