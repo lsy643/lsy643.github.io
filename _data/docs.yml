@@ -1,7 +1,0 @@
-- title: Deep Learning
-  docs:
-  - deep_learning/image_classification
-
-- title: Productive Tools
-  docs:
-  - productive_tools/docker
