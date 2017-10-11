@@ -27,7 +27,7 @@ Follow the instruction in the [site](https://www.daocloud.io/mirror#accelerator-
 
 ### Apt
 
-[Config](https://lug.ustc.edu.cn/wiki/mirrors/help/ubuntu)
+Follow [instructions](https://lug.ustc.edu.cn/wiki/mirrors/help/ubuntu)
 to use mirror in China
 
 Mirrors:
