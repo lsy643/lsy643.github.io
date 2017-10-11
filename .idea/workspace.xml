@@ -2,54 +2,127 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1e7e826-64f9-4144-8d0b-0d370ee23761" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/docs.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/analytics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/anchor_links.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/docs_contents.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/docs_contents_mobile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/docs_option.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/docs_ul.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/primary-nav-items.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/section_nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/top.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/docs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/error.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_gridism.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_normalize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_pygments.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_style.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/FontAwesome.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/FontAwesome.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/FontAwesome.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/FontAwesome.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/footer-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/octojekyll.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/html5shiv.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/redirects/github.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/redirects/issues.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/deep_learning/image_classification.md" afterPath="$PROJECT_DIR$/notes/deep_learning/image_classification.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/deep_learning/index.md" afterPath="$PROJECT_DIR$/notes/deep_learning/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/index.md" afterPath="$PROJECT_DIR$/notes/readme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/productive_tools/dev-tools.md" afterPath="$PROJECT_DIR$/notes/productive_tools/dev-tools.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/productive_tools/docker.md" afterPath="$PROJECT_DIR$/notes/productive_tools/docker.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/productive_tools/index.md" afterPath="$PROJECT_DIR$/notes/productive_tools/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_docs/productive_tools/tensorflow-seving.md" afterPath="$PROJECT_DIR$/notes/productive_tools/tensorflow-seving.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ami-selection.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/aws-homepage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/aws-signin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/aws-signup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cat_tinted.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cat_tinted_imshow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/challenges.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/classify.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/classifydemo.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cloud-create-instance-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cloud-dashboard-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cloud-external-ip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cloud-for-free.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cloud-instance-dashboard-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cloud-instance-started.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cloud-launching-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cloud-networking-external-ip-address.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cloud-networking-external-ip-naming.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cloud-networking-external-ip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cloud-networking-firewall-rule-create.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cloud-networking-firewall-rule.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnn/cnn.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnn/convnet.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnn/depthcol.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnn/maxpool.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnn/pool.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnn/stride.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnn/weights.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnnvis/act1.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnnvis/act2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnnvis/filt1.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnnvis/filt2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnnvis/occlude.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnnvis/pool5max.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cnnvis/tsne.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/community-AMIs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/conv-demo/external/d3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/conv-demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/conv-demo/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/create-instance-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/crossval.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cveg.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/cvplot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/dataflow.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ec2-dashboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/eg/spiral_linear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/eg/spiral_net.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/eg/spiral_raw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/google-cloud-create-image-screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/google-cloud-instance-gpus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/google-cloud-quotas-form.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/google-cloud-quotas-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/google-cloud-select-cloud-storage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/google-cloud-select-custom-image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/imagemap.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/instance-selection.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/instances-page.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ipython-tutorial/file-browser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ipython-tutorial/notebook-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ipython-tutorial/notebook-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ipython-tutorial/notebook-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ipython-tutorial/notebook-error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ipython-tutorial/save-notebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/jupyter-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/key-pair-create.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/key-pair.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/knn.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/launch-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/launching-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/margin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn1/alexplot.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn1/layer_sizes.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn1/neural_net.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn1/neural_net2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn1/neuron.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn1/neuron_model.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn1/reg_strengths.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn1/relu.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn1/sigmoid.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn1/tanh.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn2/cifar10pca.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn2/dropout.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn2/prepro1.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn2/prepro2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn3/accuracies.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn3/cnnweights.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn3/gridsearchbad.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn3/learningrates.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn3/loss.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn3/nesterov.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn3/opt1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn3/opt2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn3/updates.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn3/values.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nn3/weights.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/nneg.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/pixels_embed_cifar10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/pixels_embed_cifar10_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/pixelspace.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sadpuppy_nocredits.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/samenorm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sine_cosine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sine_cosine_subplot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/stepsize.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/svm1d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/svm_all.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/svm_one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/svmbowl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/svmvssoftmax.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/terminal-coursework.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/terminal-development.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/terminal-my.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/terminal-shared.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/trainset.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/wb.jpeg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -596,9 +669,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17867436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17867436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -645,7 +717,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_docs/datafiles.md" />
     <entry file="file://$PROJECT_DIR$/_site/404.html" />
     <entry file="file://$PROJECT_DIR$/_site/blogs/index.html" />
     <entry file="file://$PROJECT_DIR$/redirects/issues.html">
@@ -994,6 +1065,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/conv-demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
