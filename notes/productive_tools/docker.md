@@ -9,4 +9,4 @@ Normal Docker Usage
 ## Docker is a very good tool
 
 
-[mirror_link](./mirrors)
+[Mirros](mirrors/)
